@@ -1,2 +1,2 @@
-# estructuraHandlebars
-estructura básica con handlebars con node.js
+# estructura básica de Handlebars
+Introducción Handlebars
